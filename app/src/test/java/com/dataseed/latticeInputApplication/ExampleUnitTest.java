@@ -1,4 +1,4 @@
-package com.dataseed.spaceinputapplication;
+package com.dataseed.latticeInputApplication;
 
 import org.junit.Test;
 
